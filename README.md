@@ -1,1 +1,3 @@
 # CureAssit
+
+Symptoms similarity model
