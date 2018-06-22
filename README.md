@@ -1,3 +1,1 @@
-# CureAssit
-
-Symptoms similarity model
+###  The task was to find similar symptons for a symptoms for eg The symptoms related to 'cold' are Headaache, pain etc. So, I formed a Dataset that have symptoms matched to a Disease. Then I did some cleanup and formating of data so it can be normalised. I have use TFIDF to get a numerical representation of symptoms and it do provide scores that can be used to find the similarity between two vectors. Others mandatory steps are mentioned in notebook
